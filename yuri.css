@@ -1,0 +1,26 @@
+.titulo{
+    color: gray;
+}
+
+.img{
+    width: 19%;
+}
+
+.letra{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.caixa{
+    margin: 10%;
+    color: black;
+}
+
+.muzy{
+    width: 20%;
+    font-weight: 100;
+}
+
+.titulo{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
